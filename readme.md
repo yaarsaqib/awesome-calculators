@@ -30,7 +30,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en) - New, official calculator from Samsung.
 - [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en) - Calculate math problems using camera.
 - [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en) - Scientific calculator with realistic interface.
-- [a41cv](https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en) - Excellent emulation of the classic [HP-41CV](http://www.hpmuseum.org/hp41.htm) calculator.
+- [a41cv](https://github.com/andsen/a41cv) - Excellent emulation of the classic HP-41CV calculator.
 - [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en) - Emulate Texas Instruments graphing calculators on your device.
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
 - [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
@@ -44,7 +44,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 
 ### Mac
 - [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
-- [Soulver 3](https://soulver.app/) - Smart notepad with a built-in calculator.
+- [Soulver 3](https://soulver.app) - Smart notepad with a built-in calculator.
 - [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
 
 ### Linux
@@ -67,6 +67,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
+- [Salar Statistics Analysis Studio](https://onlineinternetcafe.com/statistical-calculators/) - Browser-based statistics workspace with 301 calculators covering descriptive statistics, probability, hypothesis tests, regression, reliability, survival analysis, meta-analysis, and multivariate methods.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.

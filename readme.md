@@ -30,7 +30,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en) - New, official calculator from Samsung.
 - [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en) - Calculate math problems using camera.
 - [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en) - Scientific calculator with realistic interface.
-- [a41cv](https://github.com/andsen/a41cv) - Excellent emulation of the classic HP-41CV calculator.
+- [a41cv](https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en) - Excellent emulation of the classic [HP-41CV](http://www.hpmuseum.org/hp41.htm) calculator.
 - [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en) - Emulate Texas Instruments graphing calculators on your device.
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
 - [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
@@ -44,7 +44,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 
 ### Mac
 - [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
-- [Soulver 3](https://soulver.app) - Smart notepad with a built-in calculator.
+- [Soulver 3](https://soulver.app/) - Smart notepad with a built-in calculator.
 - [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
 
 ### Linux
@@ -85,7 +85,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Tutorials
 - [Simple calculator app using React & Node.js](https://www.codementor.io/azeezolaniran2016/a-simple-calculator-app-using-react-and-node-a0ubeooxk) - Really easy tutorial for beginners.
 - [Calculator in C++ using switch...case](https://www.programiz.com/cpp-programming/examples/calculator-switch-case) - How to create a basic calculator in C++ using switch...case.
-- [Simple calculator in Python](https://www.programiz.com/python-programming/examples/calculator) - Create a simple calculator with Python.
+- [Simple calculator in Python](https://www.programiz.com/python-programming/examples/calculator) - Create a simple calculator in Python.
 
 ### Videos
 - [Arthur Benjamin - Faster than a calculator](https://www.youtube.com/watch?v=e4PTvXtz4GM)

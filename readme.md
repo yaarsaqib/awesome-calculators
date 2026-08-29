@@ -85,7 +85,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Tutorials
 - [Simple calculator app using React & Node.js](https://www.codementor.io/azeezolaniran2016/a-simple-calculator-app-using-react-and-node-a0ubeooxk) - Really easy tutorial for beginners.
 - [Calculator in C++ using switch...case](https://www.programiz.com/cpp-programming/examples/calculator-switch-case) - How to create a basic calculator in C++ using switch...case.
-- [Simple calculator in Python](https://www.programiz.com/python-programming/examples/calculator) - Create a simple calculator in Python.
+- [Simple calculator in Python](https://www.programiz.com/python-programming/examples/calculator) - Create a simple calculator with Python.
 
 ### Videos
 - [Arthur Benjamin - Faster than a calculator](https://www.youtube.com/watch?v=e4PTvXtz4GM)
